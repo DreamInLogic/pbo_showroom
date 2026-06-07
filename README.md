@@ -23,7 +23,7 @@ Dalam pengembangan proyek ini, saya bertindak sebagai **Project Manager & UML De
 
 Untuk menghindari masalah *spaghetti code*, arsitektur sistem ini dirancang dengan pendekatan berlapis (*layered architecture*) yang memisahkan antara infrastruktur data, model domain bisnis, dan lapisan tampilan (View):
 
-![Class Diagram Showroom Management](https://drive.google.com/file/d/19F3sdayd0QRbpmndIrIXmWgWlpfPG8AJ/view?usp=sharing)
+class diagram.drawio.svg
 
 ---
 
